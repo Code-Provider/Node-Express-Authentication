@@ -1,0 +1,17 @@
+{
+  "name": "Auth",
+  "version": "1.0.0",
+  "description": "Authentication Node Express App",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
